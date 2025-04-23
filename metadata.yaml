@@ -1,0 +1,37 @@
+_repo: Az-arany-hegedu-b-regeny_75819
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Herczeg, Ferenc
+    aliases:
+    - Herczeg, Francesco
+    - Herczeg, Franz
+    - Herzog, Franz
+    - Herczegh, Ferencz
+    - Herczeg, Franciszek
+    birthdate: 1863
+    deathdate: 1954
+    gutenberg_agent_id: '57788'
+    url: http://www.gutenberg.org/2009/agents/57788
+    wikipedia: https://hu.wikipedia.org/wiki/Herczeg_Ferenc_(%C3%ADr%C3%B3)
+description: ''
+gutenberg_issued: '2025-04-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75819'
+language: hu
+pgterms:marc905: 20250328110124herczeg
+pgterms:marc906: '1916'
+pgterms:marc907: hu
+production_note: Albert László from page images generously made available by the Hungarian
+  Electronic Library
+publication_note: '  $aBudapest :$bSinger és Wolfner, $c1916.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hungarian fiction -- 20th century'
+- !lcc 'PH'
+- GITenberg
+title: 'Az arany hegedű : $b regény'
+url: http://www.gutenberg.org/ebooks/75819
